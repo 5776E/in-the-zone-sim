@@ -1,4 +1,4 @@
-# itz
+# ITZ
 This project is a simulation of the VEX EDR game In The Zone (2017-2018). 
 
 Programmer Notes
